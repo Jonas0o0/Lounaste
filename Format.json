@@ -1,0 +1,66 @@
+[
+    {
+        "header" : "Definition du type de requete (ex: connection, envoyer un msg, etc)",
+        "data" : "contien ttout les donner de la requete"
+    },
+
+    {
+        "header" : {
+            "type" : "login"
+        },
+        "data" : {
+            "username" : "str",
+            "password" : "str"
+        }
+    },
+
+    {
+        "status" : {
+            "code" : 200,
+            "error" : "None"
+        },
+        "data" : [
+            {
+                "name": "",
+                "type" : "group"
+            }
+        ]
+    },
+
+
+    {
+        "header" : {
+            "type" : "register"
+        },
+        "data" : {
+            "username" : "str",
+            "password" : "str"
+        }
+    },
+
+    {
+        "status" : {
+            "code" : 200,
+            "error" : "None"
+        },
+        "data" : []
+    },
+
+
+
+
+    {
+        "header" : "Definition du type de requete (ex: connection, envoyer un msg, etc)",
+        "data" : "contien ttout les donner de la requete"
+    },
+
+    {
+        "header" : "Definition du type de requete (ex: connection, envoyer un msg, etc)",
+        "data" : "contien ttout les donner de la requete"
+    },
+
+    {
+        "header" : "Definition du type de requete (ex: connection, envoyer un msg, etc)",
+        "data" : "contien ttout les donner de la requete"
+    }
+]
